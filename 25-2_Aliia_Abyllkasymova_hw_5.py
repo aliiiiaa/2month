@@ -14,6 +14,7 @@ while True:
         g = int(input('your bet '))
         My_Money -= g
         My_Money += bet(b, g)
+        #cvbnjmk
 
     else:
         print('yes or no')
